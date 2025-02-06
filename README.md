@@ -1,3 +1,11 @@
+<h1 align="center">
+I'm <a href="#" target="_blank" rel="noreferrer">Matin Bayram</a> 👋
+</h1>
+
+<h2 align="center">
+I'm a Data Scientist 💻, Financial Analyst💹
+</h2>
+
 ## 💼 Technical Skills
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
