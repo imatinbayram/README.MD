@@ -61,4 +61,3 @@ I'm a Data Scientist 💻, Financial Analyst💹
 ![GIT Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Laptop](https://img.shields.io/badge/xiaomi%20laptop-FF6900?style=for-the-badge&logo=xiaomi&logoColor=white)
-## 📝 Latest Blog Posts
